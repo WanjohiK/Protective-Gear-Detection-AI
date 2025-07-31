@@ -1,6 +1,7 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![alt text](ezgif-8039d1a1f0ef87-2.gif)
+![PPE Detection Demo](ezgif-8039d1a1f0ef87-2.gif)
+ 
 
 ### 🧩 Problem Statement
 Workplace safety violations involving missing protective gear (helmets, vests, gloves) are frequent and dangerous. Manual inspection is inefficient and error-prone.
