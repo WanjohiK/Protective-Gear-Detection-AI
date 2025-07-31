@@ -1,6 +1,6 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![download](https://github.com/user-attachments/assets/9b2dbdca-78e6-4d53-840d-282597824dbe)
+
 
 ### 🧩 Problem Statement
 Workplace safety violations involving missing protective gear (helmets, vests, gloves) are frequent and dangerous. Manual inspection is inefficient and error-prone.
@@ -102,6 +102,9 @@ Used:
 <img width="296" height="65" alt="image" src="https://github.com/user-attachments/assets/8f43012e-0b8e-4f2d-a508-d52d6d2abb7b" />
 
 Output: Annotated images in /runs/detect/predict*/
+
+![download](https://github.com/user-attachments/assets/9b2dbdca-78e6-4d53-840d-282597824dbe)
+
 🎥 Video Predictions:
 Used inference on 2 videos:
 - PPE_Part1.mp4
