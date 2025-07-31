@@ -1,6 +1,5 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![Uploading image.png…]()
 
 
 ### 🧩 Problem Statement
