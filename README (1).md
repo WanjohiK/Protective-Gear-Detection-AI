@@ -1,6 +1,6 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![PPE Detection Demo](media/ezgif-8039d1a1f0ef87-2.gif)
+![Protective-Gear-Detection-AI](media/ezgif-8039d1a1f0ef87-2.gif)
 
  
 
