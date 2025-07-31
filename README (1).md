@@ -1,6 +1,7 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![PPE Detection Demo](ezgif-8039d1a1f0ef87-2.gif)
+![PPE Detection Demo](media/ezgif-8039d1a1f0ef87-2.gif)
+
  
 
 ### 🧩 Problem Statement
