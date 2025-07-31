@@ -1,7 +1,5 @@
 ## 1️⃣ BUSINESS UNDERSTANDING
 
-![PPE Detection](![Uploading ezgif-8039d1a1f0ef87.gif…]()
-)
 
 
 ### 🧩 Problem Statement
