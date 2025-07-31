@@ -71,11 +71,13 @@ Used command:
 
 ## 5️⃣ EVALUATION
 
+<img width="818" height="213" alt="image" src="https://github.com/user-attachments/assets/29e663d5-b6cf-46d6-8600-dd03ce34127a" />
+
 📊 Metrics:
 mAP@0.5: Achieved high precision
-
 Class-wise mAP@0.5:0.95 breakdown (visualized)
 Confusion Matrix + Precision-Recall curves generated
+
 📸 Visual Outputs:
 train_batch0.jpg: Ground truth boxes on training images
 val_batch0_pred.jpg: Prediction overlay on validation set
