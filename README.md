@@ -64,6 +64,64 @@ Model: YOLOv12m
 
 📈 Training Summary:
 Used command:
+
 <img width="363" height="73" alt="image" src="https://github.com/user-attachments/assets/c9bf4286-bbda-4bc2-a6d9-28c3cbd545c0" />
 
+## 5️⃣ EVALUATION
+
+📊 Metrics:
+mAP@0.5: Achieved high precision
+
+Class-wise mAP@0.5:0.95 breakdown (visualized)
+Confusion Matrix + Precision-Recall curves generated
+📸 Visual Outputs:
+train_batch0.jpg: Ground truth boxes on training images
+val_batch0_pred.jpg: Prediction overlay on validation set
+results.png: Loss and mAP graphs per epoch
+P_curve.png, R_curve.png: Precision and Recall curves
+
+## 6️⃣ MODEL EXPORT
+
+💾 Saved to Google Drive:
+Exported the best model checkpoint to:
+/content/drive/MyDrive/ppe_detect/best.pt
+
+🧪 Validated Model:
+
+<img width="388" height="95" alt="image" src="https://github.com/user-attachments/assets/d7573805-7022-4697-bed8-be36b5287a9c" />
+
+## 7️⃣ INFERENCE
+
+🖼 Image Predictions:
+Used:
+
+<img width="296" height="65" alt="image" src="https://github.com/user-attachments/assets/8f43012e-0b8e-4f2d-a508-d52d6d2abb7b" />
+
+Output: Annotated images in /runs/detect/predict*/
+🎥 Video Predictions:
+Used inference on 2 videos:
+- PPE_Part1.mp4
+- PPE_Part2.mp4
+IOU Threshold: 0.1 (to detect multiple overlapping objects)
+
+## 8️⃣ CONCLUSION
+✅ Key Achievements:
+
+- Fine-tuned YOLOv12 on PPE detection
+- Model shows strong generalization on unseen images and video
+- Achieves near real-time performance with high confidence
+- Model artifacts are exportable and deployment-ready
+
+  ## 9️⃣ RECOMMENDATIONS
+  
+🔧 Technical:
+
+- Augment data with poor lighting, motion blur, and night-time scenes
+- Add more PPE classes (e.g., goggles, boots)
+- Try YOLOv12n for lightweight edge deployment
+
+🚀 Business:
+- Integrate into CCTV systems
+- Use alerts for non-compliance detection
+- Pilot test in a real-world site with feedback loop
 
